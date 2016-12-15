@@ -1,0 +1,36 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "window.zoomLevel": 1,
+
+    "emmet.syntaxProfiles": {
+        "blade": "html"
+    },
+
+    "editor.fontFamily": "consolas",
+    "editor.lineHeight": 0,
+
+    "beautify.language": {
+        "js": {
+            "type": [
+                "javascript",
+                "json"
+            ],
+            "filename": [
+                ".jshintrc",
+                ".jsbeautify"
+            ]
+        },
+        "css": [
+            "css",
+            "scss"
+        ],
+        "html": [
+            "htm",
+            "html",
+            "blade",
+            "php"
+        ]
+    },
+    "html.format.preserveNewLines": true,
+    "html.format.maxPreserveNewLines": 10
+}
